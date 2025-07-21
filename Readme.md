@@ -12,7 +12,6 @@ A brief description of your project and its purpose.
 
 ```bash
 git clone https://github.com/VritiSharma7/testing.git
-cd your-repo
 ```
 
 ## Usage
